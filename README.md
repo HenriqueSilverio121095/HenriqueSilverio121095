@@ -1,10 +1,10 @@
-👋 Hi, I’m @HenriqueSilverio121095!
+👋 Hi, I am @HenriqueSilverio121095!
 
 📍 I am from São Paulo, Brazil. 👩🏼‍🇧🇷
 
 👨‍🎓 I am graduated in Business Administration and Management.
 
-👀 I’m interested to be a <strong>FrontEnd Developer</strong>.  💻
+👀 I am interested to be a <strong>FrontEnd Developer</strong>.  💻
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
