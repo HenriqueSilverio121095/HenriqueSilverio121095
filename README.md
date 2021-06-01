@@ -6,7 +6,7 @@
 
 👀 I am interested to be a <strong>FrontEnd Developer</strong>.  💻
 
-I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+💪 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 🚀 My skills<br><br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
